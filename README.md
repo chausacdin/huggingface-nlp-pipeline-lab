@@ -49,4 +49,8 @@ Then run the cells from top to bottom.
 - Explore Retrieval-Augmented Generation after completing the RAG module
 
 ## Author
-  Charleen
+✨ Charleen ✨  
+
+- QA / Regulatory Radiopharmacist, exploring AI and machine learning applications  
+- Building foundational NLP and data science projects to develop technical expertise  
+- Focused on applying AI to real-world healthcare and regulatory systems
