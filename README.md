@@ -1,4 +1,12 @@
 # huggingface-nlp-pipeline-lab
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Transformers](https://img.shields.io/badge/NLP-Transformers-green)
+![HuggingFace](https://img.shields.io/badge/Library-HuggingFace-yellow)
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)
+![Project](https://img.shields.io/badge/Type-NLP%20Lab-blueviolet)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 Beginner-friendly NLP project using Hugging Face pipelines: sentiment analysis, NER, zero-shot classification, and tokenizer exploration.
 
 ## Overview
